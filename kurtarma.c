@@ -57,7 +57,7 @@ int random;
         
             while(1){
 
-                newCode = randomNum();
+                newNumber = randomNum();
                 
                 printf("Yeni kurtarma numaraniz : %d\n", newNumber);
 
