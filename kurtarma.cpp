@@ -96,7 +96,7 @@ int random;
 
     }
 
-        //the random number fonction
+        //the random number function
             int randomNum()
             {
 
