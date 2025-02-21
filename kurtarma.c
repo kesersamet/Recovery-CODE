@@ -13,7 +13,7 @@ int random;
         srand(time(NULL));
 
 
-       // Take a number from phone number
+       // Take a phone number from user
 
         printf("Lutfen kurtarma sayisi gelecek numarayi tuslayiniz: ");
         
