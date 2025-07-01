@@ -41,7 +41,6 @@ int random;
 
             printf("Kurtarma sayiniz gecerlidir.");
 
-
         }
 
 
@@ -80,19 +79,9 @@ int random;
 
                 }
 
-
-
-
             }
-            
-
-        
-
 
         }
-
-
-
 
     }
 
